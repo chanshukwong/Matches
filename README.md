@@ -1,4 +1,4 @@
-Find the solution of re-positioning a matchstick to make the equation valids.
+Find the solution of re-positioning a matchstick to make the equation valids.<br>
 移動一根火柴讓等式成立.
 <img src="1.jpg">
 <img src="2.jpg">
