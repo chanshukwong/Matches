@@ -1,5 +1,5 @@
 Find the solution of re-positioning a matchstick to make the equation valids.<br>
-移動一根火柴讓等式成立.
+移動一根火柴讓等式成立.<br>
 <img src="1.jpg">
 <img src="2.jpg">
 <img src="3.jpg">
